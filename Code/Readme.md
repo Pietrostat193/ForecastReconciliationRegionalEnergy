@@ -22,6 +22,6 @@ To work it is need an active registration to COPERNICUS WEBSITE, and valid API K
 
 ---
 
-## 🗂 Folder Structure
+
 
 
