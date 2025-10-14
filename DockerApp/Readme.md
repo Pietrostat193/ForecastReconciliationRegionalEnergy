@@ -1,6 +1,8 @@
 # Forecast Pipeline (R + Docker)
 
 This repository contains a reproducible forecasting pipeline built with R and Docker.
+The code reconstruct time-series local power consumption time-series, starting from global time-series, local predictors.
+
 
 ## 🧱 Requirements
 - Docker (Desktop or CLI)
