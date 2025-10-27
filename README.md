@@ -4,4 +4,4 @@ BAC del progetto PNRR – PE - GRINS - GROWING RESILIENT, INCLUSIVE AND SUSTAINA
 The project aims to build regional energy production time-series. Starting from hourly resolution annual time-series,
 annual regional aggregates and hourly wind-speed regional level.
 
-See:  Reconstruction of Local energy consumption presentation for an overview of the project.
+See:  "Reconstruction of Local energy consumption" pdf presentation for an overview of the project.
